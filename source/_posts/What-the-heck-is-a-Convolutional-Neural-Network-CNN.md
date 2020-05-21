@@ -1,10 +1,9 @@
 ---
 title: What is a Convolutional Neural Network(CNN)?
-date: 2020-05-07 01:00:44
+date: 2020-05-20 01:00:44
 excerpt: Convolutional neural networks have already been unknowingly influencing your life, their application range from searching for an image on google to detecting deforestation from satellite images
 thumbnail: /images/thumbnails/what-is-a-CNN.jpeg
-
-tags: CNN,AI, Beginner
+tags: [CNN,AI, Beginner]
 categories: [AI, Computer Vision]
 ---
 

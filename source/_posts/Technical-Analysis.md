@@ -3,7 +3,7 @@ title: Technical Analysis
 date: 2020-05-16 02:46:48
 excerpt: Technical Analysis is the study of time series data
 thumbnail: /images/thumbnails/technical-analysis.png
-tags: Forex, Analysis, Support & Resistance
+tags: [Forex, Analysis, Support & Resistance]
 categories: [Forex, Analysis]
 ---
 

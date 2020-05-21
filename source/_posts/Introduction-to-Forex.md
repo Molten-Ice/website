@@ -3,7 +3,7 @@ title: Introduction to Forex
 date: 2020-05-16 01:26:27
 excerpt: Forex is simply the global market that allows the exchange of one currency for another
 thumbnail: /images/thumbnails/introduction-to-forex.png
-tags: Forex, Beginner
+tags: [Forex, Beginner]
 categories: [Forex, beginner]
 ---
 

@@ -3,7 +3,7 @@ title: Diagnosing COVID-19 using Chest X-Rays
 date: 2020-04-15 23:32:18
 excerpt: Utilising learning rate discrimination & progressive resizing
 thumbnail: /images/thumbnails/covid-x-rays.png
-tags: CNN, fastai
+tags: [CNN, fastai]
 categories: [AI, Computer Vision]
 ---
 
