@@ -3,8 +3,8 @@ title: Introduction to Forex
 date: 2020-05-16 01:26:27
 excerpt: Forex is simply the global market that allows the exchange of one currency for another
 thumbnail: /images/thumbnails/introduction-to-forex.png
-tags: [Forex, Beginner]
-categories: [Forex, beginner]
+tags: [Forex, Introduction]
+categories: [Forex, Introduction]
 ---
 
 In this article, I'm going to giving an overview of the Forex market and defining some terminology surrounding it :)
@@ -54,6 +54,10 @@ The chart below shows how much money you make per pip with different amounts of 
 Remember leverage? We said if we invested $100 we actually have $3000 worth of purchasing power. Let's say we invested all our money in on the 112 pip trade, we would have made $0.1 * 112 * 3 = $33.2! This is over a 30% shift in one day! 
 
 On average the GBP/USD shifts 160 pips a day, this allows experienced forex traders to quickly make money with very little capital, whereas other areas such as the stock markets often require backing by large hedge funds to made substantial profits.
+
+## What's happening when you buy a currency pair
+
+Let's say you want to buy the EUR/USD pair you would be purchasing Euros and simultaneously selling Dollars. A trader will profit from buying the EUR/USD if the euro increases in value relative to the dollar.
 
 *To learn more about the basics of forex I would highly recommend [Babypips](https://www.babypips.com/learn/forex) (it's free and amazing)*
 

@@ -3,8 +3,8 @@ title: Technical Analysis
 date: 2020-05-16 02:46:48
 excerpt: Technical Analysis is the study of time series data
 thumbnail: /images/thumbnails/technical-analysis.png
-tags: [Forex, Analysis, Support & Resistance]
-categories: [Forex, Analysis]
+tags: [Forex, Support & Resistance, Technical Analysis]
+categories: [Forex, Technical Analysis]
 ---
 
 Technical Analysis is the study of ONLY the time series data, the previous price action. Whereas fundamental analysis concerns itself about other factors such as the news.
